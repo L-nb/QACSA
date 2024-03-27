@@ -30,9 +30,6 @@ The sentiment polarity over the aspect category is labeled as 1(Positive), 0(Neu
   data = pd.read_csv(file_path)
   ```
 
-## Acknowledgement
-
-The BERT model pretrained by huggingface(https://github.com/huggingface/pytorch-transformers) is used in our experiments.
 
 
 ## Contact
