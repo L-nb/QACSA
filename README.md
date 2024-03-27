@@ -16,8 +16,6 @@ The QACSA dataset is collected from three domains of ordinary users on two major
 ![image](https://github.com/L-nb/QACSA/tree/main/Data_Statistics.png)
 
 
-## Data Example
-![image](https://github.com/L-nb/QACSA/tree/main/example_review.png)
 
 ## Data Label
 The sentiment polarity over the aspect category is labeled as 1(Positive), 0(Neutral), −1(Negative)
